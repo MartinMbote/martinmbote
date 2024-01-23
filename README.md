@@ -24,7 +24,9 @@ I'm Martin Mbote, a passionate developer and tech enthusiast. My journey in the 
 I love connecting with fellow developers and enthusiasts. If you have any questions, suggestions, or just want to say hi, feel free to reach out to me:
 
 - **Email:** martinmmbote@gmail.com
-- **LinkedIn:** [Martin Mbote](https://www.linkedin.com/in/martinmbote/)
+- **LinkedIn:** [Martin Mbote](www.linkedin.com/in/martin-maina-78aba2191)
+
+
 
 ## Acknowledgments 🙏
 
