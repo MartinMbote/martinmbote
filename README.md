@@ -9,11 +9,12 @@ Hello, I'm Martin Mbote, a passionate developer and tech enthusiast. My journey 
 
 ## Projects 🛠️
 
-### 1. Project Name
+### 1. My 2050 Kenya Carbon Calculator 
 
-**Description:** A brief description of the project, its purpose, and its features.
+**Description:** My2050 Kenya is an online tool that allows users to create instances that can be used to predict Kenya's CO2 greenhouse gas emissions to inform the necessary decisions that will help realise Kenya’s journey to net zero emission targets by 2050.
 
 **GitHub Repository:** [Link to Repository](https://github.com/martinmbote/project-repository)
+**Website:** [(https://github.com/martinmbote/project-repository)
 
 ### 2. Another Project
 
