@@ -19,15 +19,6 @@ I'm Martin Mbote, a passionate developer and tech enthusiast. My journey in the 
 
 **GitHub Repository:** [Link to Repository](https://github.com/martinmbote/another-project-repository)
 
-## Contributions 🤝
-
-I actively contribute to open source projects and believe in giving back to the community. Below are some of my noteworthy contributions:
-
-- [Link to Contribution 1](https://github.com/organization/project/pull/123)
-- [Link to Contribution 2](https://github.com/another-organization/repo/pull/456)
-
-Feel free to explore my GitHub profile to discover more contributions and collaborations.
-
 ## Contact 📬
 
 I love connecting with fellow developers and enthusiasts. If you have any questions, suggestions, or just want to say hi, feel free to reach out to me:
