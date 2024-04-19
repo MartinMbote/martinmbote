@@ -17,13 +17,13 @@ I'm Martin Mbote, a passionate developer and tech enthusiast. My journey in the 
 
 **Description:** Sustainable Jamii is a vibrant website dedicated to showcasing a youth-led organization, captivating the interest of young individuals. Through strategic collaboration with the government, this platform serves as a dynamic hub for marketing initiatives tailored specifically to the youth demographic.
 
-[GitHub Repository] ([https://github.com/MartinMbote/Sustainable-Jamii])
+**GitHub Repository:** https://github.com/MartinMbote/Sustainable-Jamii
 
 ### 2. Toto Genius
 
 **Description:** Toto Genius emerges as a dynamic Learning Management System, meticulously crafted with children in mind. With a user-friendly interface tailored to their unique needs, navigation becomes a breeze. As the architect of the frontend, I ensured a seamless experience, empowering children to explore and learn with ease.
 
-**GitHub Repository:** [Link to Repository]([[https://github.com/martinmbote/another-project-repository](https://github.com/MartinMbote/Sustainable-Jamii)](https://github.com/MartinMbote/Toto-Genius))
+**GitHub Repository:** https://github.com/MartinMbote/Toto-Genius
 
 ## Contact 📬
 
