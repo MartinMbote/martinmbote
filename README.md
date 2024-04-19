@@ -19,7 +19,7 @@ I'm Martin Mbote, a passionate developer and tech enthusiast. My journey in the 
 
 **GitHub Repository:** https://github.com/MartinMbote/Sustainable-Jamii
 
-### 2. Toto Genius
+### 3. Toto Genius
 
 **Description:** Toto Genius emerges as a dynamic Learning Management System, meticulously crafted with children in mind. With a user-friendly interface tailored to their unique needs, navigation becomes a breeze. As the architect of the frontend, I ensured a seamless experience, empowering children to explore and learn with ease.
 
