@@ -1,36 +1,24 @@
-## About Me
+![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-Hi there 👋 
+<h1 align="center">Hi 👋, I'm Martin Mbote</h1>
+<h3 align="center">A passionate frontend developer from Nairobi, Kenya</h3>
 
-I'm Martin Mbote, a passionate developer and tech enthusiast. My journey in the world of technology has been marked by a keen interest in solving real-world problems through creative and efficient solutions. I believe in the power of collaboration and open source, and I'm excited to share my projects with the community.
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-## Projects 🛠️
+- 🔭 I’m currently working on [A Visitor Management System](https://github.com/strathmore-uni/shwebapp)
 
-### 1. My 2050 Kenya Carbon Calculator 
+- 🌱 I’m currently learning **Machine Learning**
 
-**Description:** My2050 Kenya is an online tool that allows users to create instances that can be used to predict Kenya's CO2 greenhouse gas emissions to inform the necessary decisions that will help realise Kenya’s journey to net zero emission targets by 2050.
+- 💬 Ask me about **React.js, Node.js, MongoDB, Express.js**
 
-**GitHub Repository:** https://github.com/MartinMbote/My2050Calculator
-**Website Link:** https://my2050kenya.strathmore.edu
+- 📫 How to reach me **martinmmbote@gmail.com**
 
-### 2. Sustainable Jamii
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/martinmbote" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="martinmbote" height="30" width="40" /></a>
+</p>
 
-**Description:** Sustainable Jamii is a vibrant website dedicated to showcasing a youth-led organization, captivating the interest of young individuals. Through strategic collaboration with the government, this platform serves as a dynamic hub for marketing initiatives tailored specifically to the youth demographic.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-**GitHub Repository:** https://github.com/MartinMbote/Sustainable-Jamii
-
-### 3. Toto Genius
-
-**Description:** Toto Genius emerges as a dynamic Learning Management System, meticulously crafted with children in mind. With a user-friendly interface tailored to their unique needs, navigation becomes a breeze. As the architect of the frontend, I ensured a seamless experience, empowering children to explore and learn with ease.
-
-**GitHub Repository:** https://github.com/MartinMbote/Toto-Genius
-
-## Contact 📬
-
-I love connecting with fellow developers, enthusiasts and even future employers. If you have any questions, suggestions, or just want to say hi, feel free to reach out to me:
-
-- **Email:** martinmmbote@gmail.com
-- **LinkedIn:** [Martin Mbote](https://www.linkedin.com/in/martin-maina-78aba2191)
-
-
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=martinmbote&show_icons=true&locale=en&layout=compact" alt="martinmbote" /></p>
